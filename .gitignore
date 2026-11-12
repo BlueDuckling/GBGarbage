@@ -1,0 +1,36 @@
+
+# Executables
+*.exe
+*.out
+
+# Compiled files
+*.o
+*.obj
+*.ilk
+*.pdb
+*.idb
+
+# Build directories
+Debug/
+Release/
+build/
+bin/
+obj/
+x64/
+x86/
+.vs/
+
+# Visual Studio user settings
+*.vcxproj.user
+
+# Temporary files
+*.tmp
+*.log
+*.tlog/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# ROMs (temporarily excluded until licenses are checked)
+roms/
